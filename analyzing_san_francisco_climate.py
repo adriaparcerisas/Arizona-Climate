@@ -178,7 +178,7 @@ st.altair_chart(alt.Chart(df[5000:9999])
 st.write('')
 st.markdown('This app has been done by **_Adrià Parcerisas_**, a PhD Biomedical Engineer related to Machine Learning and Artificial intelligence technical projects for data analysis and research, as well as dive deep on-chain data analysis about cryptocurrency projects. You can find me on [Twitter](https://twitter.com/adriaparcerisas)')
 st.write('')
-st.markdown('The full sources used to develop this app can be found to the following link: [Github link](https://github.com/adriaparcerisas/College-Football-Playoff)')
+st.markdown('The full sources used to develop this app can be found to the following link: [Github link](https://github.com/adriaparcerisas/SanFrancisco-Climate)')
 st.markdown('_Powered by [Flipside Crypto](https://flipsidecrypto.xyz) and [MetricsDAO](https://metricsdao.notion.site)_')
 
 
