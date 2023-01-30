@@ -371,10 +371,6 @@ st.plotly_chart(fig2, theme="streamlit", use_container_width=True)
 
 
 # In[ ]:
-
-
-DailyCoolingDegreeDays DailyHeatingDegreeDays
-
 st.subheader('Cooling vs Heating Degrees')
 st.write('The sixth part of this app analyzes the differences between daily cooling degree days and daily heating degree days in San Francisco.')
 st.write('The metrics to be analyzed from there are:')
